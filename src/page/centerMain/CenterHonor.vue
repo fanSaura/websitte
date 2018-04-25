@@ -1,0 +1,54 @@
+<template>
+	<l-menu :titleOne="titleOne" :titleTwo="titleTwo" :path="path" :list="list"></l-menu>
+</template>
+<script>
+	import lMenu from '../../components/ListMenu.vue'
+	export default{
+		data(){
+			return{
+				"titleOne":"中心介绍",
+				"titleTwo":"中心荣誉",
+				"path":"/center/centerHonor/honorMain",
+				list:[
+					{
+						title:"中心被评为2014年杭州市中小学生“暑假快乐总动员”活动先进单位",
+						time:"2015-08-17"
+					},
+					{
+						title:"中心获2014年度全国科技体育（模型）进校园活动暨浙江省青少年模型教育竞赛活动优秀组织奖",
+						time:"2015-08-17"
+					},
+					{
+						title:"中心工会获2014年度杭州市文卫体工会基层工会重点工作考核一等奖",
+						time:"2015-08-17"
+					},
+					{
+						title:"中心青少年文化创意活动获第八届中国杭州文化创意产业博览会最佳活动奖",
+						time:"2015-08-17"
+					},
+					{
+						title:"中心获2014“网聚少年”2014暑期网络夏令营系列活动优秀组织奖",
+						time:"2015-08-17"
+					},
+					{
+						title:"中心被命名为2014—2015年度全国青少年宫跆拳道培训基地",
+						time:"2015-08-17"
+					},
+					{
+						title:"中心被评为2012—2014年度民族地区和中西部地区青少年宫干部教师赴东部地区青少年宫挂职锻炼工作先进单位",
+						time:"2015-08-17"
+					},
+					{
+						title:"杭州青少年活动中心分会场被评为第十届中国国际动漫节最佳分会场",
+						time:" 	2014-06-23"
+					},
+					{
+						title:"中心被评为2013年度特种设备安全目标管理先进单位",
+						time:"2014-01-23"
+					}
+				]
+			}
+		},
+		components:{lMenu},
+	}
+</script>

@@ -1,0 +1,241 @@
+.el-button--danger{
+	background: $gcolor;
+	border-color:$gcolor;
+	font-size: 16px;
+}
+.el-button--danger.block{
+	width:100%;
+}
+.mt10{
+	margin-top: 10px;
+}
+.active{
+	color:$gcolor;
+}
+.el-button--text:focus, .el-button--text:hover{
+	color:#cf261f;
+}
+.el-dialog{
+	z-index: 1000;
+}
+.hover-scale{
+	transition: all 1s;
+	-moz-transition: all 1s; 
+	-webkit-transition: all 1s;
+	-o-transition: all 1s
+}
+.hover-scale:hover{
+	transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	-moz-transition: scale(1.1);
+	-o-transform:scale(1.1);
+	-ms-transform:scale(1.1);
+
+}
+.img-date{
+	line-height:20px;
+	padding:6px 10px;
+	color:#fff;
+	position:absolute;
+	bottom:0;
+	left:0;
+	right:0;
+	background:rgba(0,0,0,.5)
+}
+.mask{
+	position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+	overflow: auto;
+	z-index: 999;
+	background: rgba(0,0,0,0.5)
+}
+.calendar{
+	padding-top: 20px;
+	.cal-input{
+		border:$border;
+	}
+	.el-table td{
+		background:#f4f4f4;
+		&:first-child{
+			background: #fff;
+		}
+	}
+	.el-table--enable-row-hover .el-table__body tr:hover>td{
+		background:#f4f4f4;
+		outline: none;
+	}
+	.el-table--enable-row-hover .el-table__body tr:hover>td:first-child{
+		background: #fff;
+	}
+	.el-table td, .el-table th{
+		padding:24px 0;
+		color:#333;
+		text-align: center;
+		border-color:#dfdfdf;
+		cursor: pointer;
+	}
+	.el-table th{
+		color:#666;
+		border-color:#dfdfdf;
+	}
+	/* .el-table tr:focus,.el-table tr:hover{
+		background: #fff;
+		outline:none
+	} */
+	}
+.common-table{
+		th{
+			background: #f4f4f4;
+			color: #666;
+		}
+		td, th{
+			border-color:#dfdfdf;
+			text-align: center;
+			color:#333;
+		}
+		thead{
+			color:#666;
+		}
+		.t-left{
+			text-align:left;
+		}
+		&.el-table--enable-row-hover .el-table__body tr:hover>td{
+			background:#fff;
+			outline: none;
+		}
+		:focus{
+			outline: none;
+		}
+		.el-button--danger{
+			margin-top: 8px;
+		}
+}
+.common-dialog{
+	margin:0 auto;
+	text-align:left;
+
+	.msg{
+		color:#000;
+		font-size: 16px;
+	}
+	.list-detail{
+		border:$border;
+		padding:10px;
+		background: $Mcolor;
+		.title{
+			color:#3b3b3b;
+			font-size: 16px;
+		}
+	}
+	.tel-input{
+		margin:30px 0;
+		.el-input{
+			.el-input__inner{
+				width: 50px;
+			    height: 50px;
+			    border-radius: 0;
+			}
+		}
+	}
+	.cent{
+		p{
+			line-height: 32px;
+		}
+		.iconfont{
+			font-size: 48px;
+			color:$gcolor;
+			&.icon-chenggong{
+				color:$Rcolor;
+			}
+		}
+
+	}
+	.el-dialog__headerbtn{
+		padding:5px;
+		border:1px solid #fff;
+		border-radius: 50%;
+		top: -40px;
+        line-height: 15px;
+        right:0;
+        font-weight: bold;
+		.el-dialog__close{
+			color:#fff;
+		}
+	}
+	.el-dialog__footer{
+		padding-bottom:30px;
+		padding-top: 0;
+		.el-button--danger{
+			width: 100%;
+		}
+	}
+}
+
+		
+.side-tit{
+	padding:7px 0;
+	background:#fff;
+	border-bottom:$border;
+	font-size: 16px;
+	.el-button{
+		padding:0;
+	}
+	.name{
+		border-left:3px solid $gcolor;
+	}
+	.name,span{
+		padding-left: 10px;
+		font-size: 18px;
+		color:#3b3b3b;
+		line-height:15px;
+		
+	}
+}
+
+//分页
+.common-page{
+	padding:20px 0;
+	.el-pagination.is-background .el-pager li.active{
+		background: $gcolor;
+	}
+	.el-pagination.is-background .btn-next, .el-pagination.is-background .btn-prev,.el-pagination.is-background .el-pager li{
+		border:$border;
+		background: #fff;
+		
+	}
+	.el-pagination.is-background .btn-next, .el-pagination.is-background .btn-prev{
+		padding: 0 10px;
+		color:$gcolor;
+	}
+	.el-pagination.is-background .btn-next.disabled, .el-pagination.is-background .btn-prev.disabled{
+		color:#ababab;
+	}
+	.el-pagination.is-background .el-pager li:hover{
+		color:$gcolor;
+	}
+	.el-pagination.is-background .el-pager li.active:hover{
+		color:#fff;
+	}
+}
+.item-content{
+	padding:20px;
+}
+
+.detail{
+		color:#3b3b3b;
+		.el-row{
+			.detail-tit{
+				font-weight: 600;
+			}
+			.el-col{
+				line-height: 28px;
+			}
+		}
+	}
+/*forgetPwd*/	
+.edit-pwd .el-form-item.is-required .el-form-item__label:before{
+	content:''!important;
+}

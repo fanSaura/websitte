@@ -1,0 +1,31 @@
+[
+    {
+        "img":"static/images/exh1.png",
+        "title":"美术馆"
+    },
+    {
+        "img":"static/images/exh2.png",
+        "title":"美术苑"
+    },
+    {
+        "img":"static/images/exh3.png",
+        "title":"美劳作品"
+    },
+    {
+        "img":"static/images/exh4.png",
+        "title":"科技作品"
+    },
+    {
+        "img":"static/images/exh5.png",
+        "title":"外来务工子女创意作品展"
+    },
+    {
+        "img":"static/images/exh6.png",
+        "title":"其他专题展"
+    },
+
+    {
+        "img":"static/images/exh7.png",
+        "title":"全国书画比赛获奖作品展"
+    }
+]

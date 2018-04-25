@@ -1,0 +1,241 @@
+{
+    "code":1,
+    "msg":{
+        "major":["儿童美术","英文学习","数学指导"],
+        "region":["活动中心","管理中心"],
+        "semester":["春季","夏季","秋季","冬季"],
+        "tableData":[
+            {
+                "major":"奥乐夫音乐班",
+                "classname":"IA-2346",
+                "classInfo":{
+                    "require":"幼儿小班~高中三年级",
+                    "sex":"不限",
+                    "degree":"高级",
+                    "time":"15",
+                    "semester":"春季2017-02-19开班",
+                    "datetime":"周日12:50-14:20",
+                    "classType":"普通班级",
+                    "classNature":"招插班生",
+                     "classDetail":{
+                         "className":"IA-2346",
+                         "region":"活动中心",
+                         "schoolYear":"2017",
+                         "semester":"春季",
+                         "major":"奥乐夫音乐班",
+                         "majorDegree":"高级",
+                         "classInfo":"预约报名中",
+                         "classStart":"2017-02-19",
+                         "classEnd":"2017-06-04",
+                         "classTimes":"15",
+                         "place":"音乐楼10室",
+                         "classType":"不同班级",
+                         "studengNatrue":"招插班生",
+                         "iphone":"85821046 或 12355-8",
+                         "costToast":"600",
+                         "costDetail":{
+                            "tuition":"590",
+                            "escrow":"10"
+                        },
+                         "classDeatail":"本班是2017年暑期“音乐等级考试班”；考试地点：活动中心音乐楼（西湖边）；考试时间：6月11日（周日）下午13:00 ；注意事项：1、网上报名缴费同时，将下载填写好的报名表和本人近期二寸免冠照片1张（照片背面请用圆珠笔清楚书写姓名、身份证号码），按“2017年中国美术学院社会美术水平等级考试报名通知”中的方式提交。2、考试当天请提前15分钟进场，开考后20分钟不得入场；凭缴费凭据进场；3、考场安排见短信通知及考试当天美术楼展板；4、考试当天除考试用纸外，其他工具自带；5、费用说明：代管费45元（报名费20元，证书费25元）；学费（考级费：一级50元、二级60元、三级70元、四级100元、五级110元、六级120元、七级150元、八级170元、九级190元）；6、网上报名开始及截止时间（含缴费）：2017年5月6日—5月24日20：00止 ；7、咨询电话：85821102、85821104",
+                         "image":[
+                             "static/images/info-img1.png",
+                             "static/images/info-img2.png",
+                             "static/images/info-vedio.png"
+                         ],
+                         "Timetable":"周日12:50-14:20 考级教室",
+                         "gradeRange":{
+                             "min":"幼儿小班",
+                             "max":"高中三年级"
+                         },
+                         "sexRequire":"不限",
+                         "capabilityCharact":"观察能力",
+                         "attitudeCharact":"积极进取的态度 耐心细致和良好的注意力"
+                     }
+                },
+                "totalCost":"375.00",
+                "region":"活动中心",
+                "classState":"预约报名中",
+                "manage":{
+                    "state":true,
+                    "text":"点击报名"
+                }
+            },
+            {
+                "major":"儿童美术",
+                "classname":"IA22-23",
+                "classInfo":{
+                    "index":"2",
+                    "require":"小学二年级~小学三年级",
+                    "sex":"不限",
+                    "degree":"中级",
+                    "time":"20",
+                    "semester":"秋季2017-10-30开班",
+                    "datetime":"周六13:00-15:20",
+                    "classType":"普通班级",
+                    "classNature":"招插班生",
+                    "classDetail":{
+                        "index":"1",
+                        "className":"IA22-23",
+                        "region":"考级教师",
+                        "schoolYear":"2017",
+                        "semester":"秋季",
+                        "major":"儿童美术",
+                        "majorDegree":"中级",
+                        "classInfo":"报名进行中",
+                        "classStart":"2017-10-30",
+                        "classEnd":"2018-06-04",
+                        "classTimes":"20",
+                        "place":"美术楼205室",
+                        "classType":"不同班级",
+                        "studengNatrue":"招插班生",
+                        "iphone":"85821046 或 12355-8",
+                        "costToast":"1200",
+                        "costDeatail":{
+                            "tuition":"1100",
+                            "escrow":"100"
+                        },
+                        "classDeatail":"本班是2017年暑期“美术等级考试班”；考试地点：活动中心美术楼（西湖边）；考试时间：6月11日（周日）下午13:00 ；注意事项：1、网上报名缴费同时，将下载填写好的报名表和本人近期二寸免冠照片1张（照片背面请用圆珠笔清楚书写姓名、身份证号码），按“2017年中国美术学院社会美术水平等级考试报名通知”中的方式提交。2、考试当天请提前15分钟进场，开考后20分钟不得入场；凭缴费凭据进场；3、考场安排见短信通知及考试当天美术楼展板；4、考试当天除考试用纸外，其他工具自带；5、费用说明：代管费45元（报名费20元，证书费25元）；学费（考级费：一级50元、二级60元、三级70元、四级100元、五级110元、六级120元、七级150元、八级170元、九级190元）；6、网上报名开始及截止时间（含缴费）：2017年5月6日—5月24日20：00止 ；7、咨询电话：85821102、85821104",
+                        "image":[
+                            "static/images/info-img1.png",
+                            "static/images/info-img2.png",
+                            "static/images/info-vedio.png"
+                        ],
+                        "Timetable":"周六13:00-15:20 考级教室",
+                        "gradeRange":{
+                            "min":"幼儿小班",
+                            "max":" 初中三年级"
+                        },
+                        "sexRequire":"不限",
+                        "capabilityCharact":"观察能力",
+                        "attitudeCharact":"积极进取的态度 耐心细致和良好的注意力"
+                    }
+                },
+                "totalCost":"500.00",
+                "region":"考级教室",
+                "classState":"报名进行中",
+                "manage":{
+                    "state":true,
+                    "text":"点击报名"
+                }
+            },
+            {
+               "major":"篮球预习班",
+                "classname":"IA22-46",
+                "classInfo":{
+                    "index":"3",
+                    "require":"小学二年级~小学三年级",
+                    "sex":"不限",
+                    "degree":"初级",
+                    "time":"35",
+                    "semester":"春季2017-04-09开班",
+                    "datetime":"周一12:50-14:20",
+                    "classType":"普通班级",
+                    "classNature":"正常报名",
+                    "classDetail":{
+                        "className":"IA22-46",
+                        "region":"活动中心",
+                        "schoolYear":"2017",
+                        "semester":"冬季",
+                        "major":"篮球预习班",
+                        "majorDegree":"初级",
+                        "classInfo":"名额已满",
+                        "classStart":"2017-12-30",
+                        "classEnd":"2018-08-04",
+                        "classTimes":"35",
+                        "place":"体育楼301室",
+                        "classType":"不同班级",
+                        "studengNatrue":"招插班生",
+                        "iphone":"85821046 或 12355-8",
+                        "costToast":"900",
+                        "costDeatail":{
+                            "tuition":"880",
+                            "escrow":"20"
+                        },
+                        "classDeatail":"本班是2017年暑期“外语等级考试班”；考试地点：活动中心体育楼（西湖边）；考试时间：6月11日（周日）下午13:00 ；注意事项：1、网上报名缴费同时，将下载填写好的报名表和本人近期二寸免冠照片1张（照片背面请用圆珠笔清楚书写姓名、身份证号码），按“2017年中国美术学院社会美术水平等级考试报名通知”中的方式提交。2、考试当天请提前15分钟进场，开考后20分钟不得入场；凭缴费凭据进场；3、考场安排见短信通知及考试当天美术楼展板；4、考试当天除考试用纸外，其他工具自带；5、费用说明：代管费45元（报名费20元，证书费25元）；学费（考级费：一级50元、二级60元、三级70元、四级100元、五级110元、六级120元、七级150元、八级170元、九级190元）；6、网上报名开始及截止时间（含缴费）：2017年5月6日—5月24日20：00止 ；7、咨询电话：85821102、85821104",
+                        "image":[
+                            "static/images/info-img1.png",
+                            "static/images/info-img2.png",
+                            "static/images/info-vedio.png"
+                        ],
+                        "Timetable":"周一13:00-15:20 考级教室",
+                        "gradeRange":{
+                            "min":"小学二年级",
+                            "max":" 小学三年级"
+                        },
+                        "sexRequire":"不限",
+                        "capabilityCharact":"观察能力",
+                        "attitudeCharact":"积极进取的态度 耐心细致和良好的注意力"
+                    }
+                },
+                "totalCost":"860.00",
+                "region":"活动中心",
+                "classState":"活动已结束",
+               "manage":{
+                    "state":false,
+                    "text":"点击报名"
+                }
+            },
+            {
+                "major":"跆拳道",
+                 "classname":"IA22-46",
+                 "classInfo":{
+                     "index":"3",
+                     "require":"初中二年级~高中三年级",
+                     "sex":"不限",
+                     "degree":"中级",
+                     "time":"20",
+                     "semester":"夏季2017-04-09开班",
+                     "datetime":"周三12:50-14:20",
+                     "classType":"普通班级",
+                     "classNature":"正常报名",
+                     "classDetail":{
+                         "className":"IA22-46",
+                         "region":"活动中心",
+                         "schoolYear":"2017",
+                         "semester":"冬季",
+                         "major":"跆拳道",
+                         "majorDegree":"中级",
+                         "classInfo":"名额已满",
+                         "classStart":"2017-12-30",
+                         "classEnd":"2018-08-04",
+                         "classTimes":"35",
+                         "place":"体育楼501室",
+                         "classType":"不同班级",
+                         "studengNatrue":"招插班生",
+                         "iphone":"85821046 或 12355-8",
+                         "costToast":"900",
+                         "costDeatail":{
+                             "tuition":"880",
+                             "escrow":"20"
+                         },
+                         "classDeatail":"本班是2017年暑期“外语等级考试班”；考试地点：活动中心体育楼（西湖边）；考试时间：6月11日（周日）下午13:00 ；注意事项：1、网上报名缴费同时，将下载填写好的报名表和本人近期二寸免冠照片1张（照片背面请用圆珠笔清楚书写姓名、身份证号码），按“2017年中国美术学院社会美术水平等级考试报名通知”中的方式提交。2、考试当天请提前15分钟进场，开考后20分钟不得入场；凭缴费凭据进场；3、考场安排见短信通知及考试当天美术楼展板；4、考试当天除考试用纸外，其他工具自带；5、费用说明：代管费45元（报名费20元，证书费25元）；学费（考级费：一级50元、二级60元、三级70元、四级100元、五级110元、六级120元、七级150元、八级170元、九级190元）；6、网上报名开始及截止时间（含缴费）：2017年5月6日—5月24日20：00止 ；7、咨询电话：85821102、85821104",
+                         "image":[
+                             "static/images/info-img1.png",
+                             "static/images/info-img2.png",
+                             "static/images/info-vedio.png"
+                         ],
+                         "Timetable":"周三12:50-14:20   考级教室",
+                         "gradeRange":{
+                             "min":"初中二年级",
+                             "max":" 高中三年级"
+                         },
+                         "sexRequire":"不限",
+                         "capabilityCharact":"观察能力",
+                         "attitudeCharact":"积极进取的态度 耐心细致和良好的注意力"
+                     }
+                 },
+                 "totalCost":"860.00",
+                 "region":"活动中心",
+                 "classState":"活动已结束",
+                "manage":{
+                     "state":false,
+                     "text":"点击报名"
+                 }
+             }
+        ]
+    }
+    
+    
+
+}

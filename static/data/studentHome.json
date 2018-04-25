@@ -1,0 +1,125 @@
+{
+    "code":"1",
+    "msg":{
+        "userInfo":{
+            "img":"static/images/avatar.png",
+            "name":"张晓彤",
+            "account":"0021548",
+            "balance":96
+        },
+        "tableData": [{
+            "date": "8:00~10:00",
+            "name1": {
+              "name":"美术课",
+              "classNum":"IA26-2",
+              "place":"活动中心求智楼",
+              "time":"14:00-16:00"
+            },
+            "name2": "",
+            "name3": "",
+            "name4": "",
+            "name5": "",
+            "name6": {
+              "name":"英语课",
+              "classNum":"IB262-89",
+              "place":"活动中心求智楼",
+              "time":"14:00-16:00"
+            },
+            "name7": {
+                "name":"中国象棋",
+                "classNum":"IB262-89",
+                "place":"活动中心求智楼",
+                "time":"9:00-11:00"
+              }
+              }, {
+                "date": "10:00~12:00",
+                "name1": "",
+                "name2": "",
+                "name3": "",
+                "name4": "",
+                "name5": "",
+                "name6": "",
+                "name7": {
+                  "name":"钢琴课",
+                  "classNum":"GQ36-9",
+                  "place":"发展中心音乐楼",
+                  "time":"14:00-16:00"
+                }
+              }, {
+                "date": "13:00~15:00",
+                "name1": {
+                  "name":"钢琴课",
+                  "classNum":"GQ36-9",
+                  "place":"发展中心音乐楼",
+                  "time":"14:00-16:00"
+                },
+                "name2": {
+                  "name":"书法课",
+                  "classNum":"GQ36-9",
+                  "place":"活动中心国画楼",
+                  "time":"10:00-12:00"
+                },
+                "name3": "",
+                "name4": "",
+                "name5": "",
+                "name6": "",
+                "name7": ""
+              }, {
+                "date": "15:00~17:00",
+                "name1": "",
+                "name2": "",
+                "name3": {
+                  "name":"儿童美术",
+                  "classNum":"ET786-79",
+                  "place":"城北美术楼",
+                  "time":"9:00-11:00"
+                },
+                "name4": "",
+                "name5": "",
+                "name6": "",
+                "name7": ""
+              },
+              {
+                "date": "15:00~17:00",
+                "name1": "",
+                "name2": "",
+                "name3": "",
+                "name4": "",
+                "name5": "",
+                "name6": {
+                  "name":"英语课",
+                  "classNum":"YU36-9",
+                  "place":"活动中心求智楼",
+                  "time":"14:00-15:00"
+                },
+                "name7": ""
+              },
+              {
+                "date": "15:00~17:00",
+                "name1":  {
+                  "name":"中国象棋",
+                  "classNum":"GX80-4",
+                  "place":"洞桥(国际)营地楼",
+                  "time":"13:00-15:00"
+                },
+                "name2": "",
+                "name3": {
+                  "name":"中国象棋",
+                  "classNum":"GX80-4",
+                  "place":"洞桥(国际)营地楼",
+                  "time":"13:00-15:00"
+                },
+                "name4": "",
+                "name5": "",
+                "name6": "",
+                "name7":  {
+                  "name":"跆拳道",
+                  "classNum":"GX89-24",
+                  "place":"洞桥(国际)营地楼",
+                  "time":"14:00-16:00"
+                }
+              }
+          ]
+    }
+   
+}

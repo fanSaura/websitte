@@ -1,0 +1,54 @@
+<template>
+	<l-menu :titleOne="titleOne" :titleTwo="titleTwo" :path="path" :list="list"></l-menu>
+</template>
+<script>
+	import lMenu from '../../components/ListMenu.vue'
+	export default{
+		data(){
+			return{
+				"titleOne":"阵地活动",
+				"titleTwo":"康乐部阵地活动",
+				"path":"/activity/klbActivity/klbMain",
+				list:[
+					{
+						title:"找短板、提升安全服务意识",
+						time:"2016-05-22"
+					},
+					{
+						title:"关于中心儿童乐园、城西游戏馆关停二日的通告",
+						time:"2016-01-20"
+					},
+					{
+						title:"揭秘警犬生活，小交警警犬基地探营",
+						time:"2015-12-26"
+					},
+					{
+						title:"杭州青少年活动中心开展应急事故救援演练",
+						time:" 	2015-12-11"
+					},
+					{
+						title:"杭州市少年交警社团消防自救自护安全教育活动",
+						time:"2015-11-14"
+					},
+					{
+						title:"小交警参观“土豪金”立体车库，感受智慧城市的智慧停车系统",
+						time:"2015-10-07"
+					},
+					{
+						title:"2015年秋季少年交警期初集结活动",
+						time:"2015-09-19"
+					},
+					{
+						title:"小交警交流营中一项主题活动的收获",
+						time:"2015-07-18"
+					},
+					{
+						title:"2015年杭州市少年交警暑假哈尔滨、沈阳交流营圆满结束",
+						time:"2015-07-06"
+					}
+				]
+			}
+		},
+		components:{lMenu},
+	}
+</script>

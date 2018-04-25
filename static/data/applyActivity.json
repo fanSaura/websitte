@@ -1,0 +1,120 @@
+{   
+    "code":"1",
+    "msg":{
+        "options": [{
+            "value": "1",
+            "label": "全部"
+        }, {
+            "value": "2",
+            "label": "未交费"
+        }, {
+            "value": "3",
+            "label": "已失效"
+        }, {
+            "value": "4",
+            "label": "代缴费"
+        }],
+           "tableData":[{
+            "state": {
+                "index": "1",
+                "detail": "已于 2017.10.25",
+                "content": "缴费成功"
+            },
+            "appointNum": "hz0145785",
+            "orderNum": "J47874784",
+            "date": "2017.05.17 ",
+            "date1": "2017.06.01",
+            "classInfo": {
+                "name": "智能机器人",
+                "num": "JID24-1",
+                "date": "周六14:35-16:01",
+                "place": "富阳分中心 求智楼106"
+            },
+            "tuition": "1200",
+            "costDeatail":{
+                "tuition":"1100",
+                "escrow":"100"
+            },
+            "operation": {
+                "state": "1",
+                "opera": "我要退款"
+            }
+        }, {
+            "state": {
+                "index": "0",
+                "content": "未缴费"
+            },
+            "appointNum": "hz0140000",
+            "orderNum": "J47874784",
+            "date": "2017.05.17 ",
+            "date1": "2017.06.01",
+            "classInfo": {
+                "name": "羽毛球",
+                "num": "YMQ65-4",
+                "date": "周六14:35-16:01",
+                "place": "萧山分中心 求智楼106"
+            },
+            "tuition": "850",
+            "costDeatail":{
+                "tuition":"800",
+                "escrow":"50"
+            },
+            "operation": {
+                "state": "2",
+                "opera": "我要缴费"
+            }
+        }, {
+            "state": {
+                "index": "1",
+                "detail": "已于 2017.02.25",
+                "content": "失效"
+            },
+            "appointNum": "hz01453785",
+            "orderNum": "J47874784",
+            "date": "2017.09.17 ",
+            "date1": "2017.06.01",
+            "classInfo": {
+                "name": "跆拳道",
+                "num": "TQD45-8",
+                "date": "周六14:35-16:01",
+                "place": "城西分中心 求智楼106"
+            },
+            "tuition": "500",
+            "costDeatail":{
+                "tuition":"490",
+                "escrow":"10"
+            },
+            "operation": {
+                "state": "",
+                "opera": ""
+            }
+        },
+        {
+            "state": {
+                "index": "0",
+                "content": "未缴费"
+            },
+            "appointNum": "hz0223786",
+            "orderNum": "J47874784",
+            "date": "2017.10.17 ",
+            "date1": "2018.02.23",
+            "classInfo": {
+                "name": "中国象棋",
+                "num": "ZGXQ23-5",
+                "date": "周六14:35-16:01",
+                "place": "西湖区分中心 求智楼106"
+            },
+            "tuition": "500",
+            "costDeatail":{
+                "tuition":"450",
+                "escrow":"80"
+            },
+            "operation": {
+                "state": "",
+                "opera": "我要缴费"
+            }
+        }
+    ]
+    }
+    
+}

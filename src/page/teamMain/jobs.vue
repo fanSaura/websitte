@@ -1,0 +1,54 @@
+<template>
+	<l-menu :titleOne="titleOne" :titleTwo="titleTwo" :path="path" :list="list"></l-menu>
+</template>
+<script>
+	import lMenu from '../../components/ListMenu.vue'
+	export default{
+		data(){
+			return{
+				"titleOne":"中心团队",
+				"titleTwo":"人才招聘",
+				"path":"/team/jobs/jobMain",
+				list:[
+					{
+						title:"关于杭州（国际）青少年洞桥营地招聘管理人员的公告",
+						time:"2018-01-25"
+					},
+					{
+						title:"关于招聘物业管理人员和保安的公告",
+						time:"2018-01-13"
+					},
+					{
+						title:"幼儿（1-6岁）亲子活动类兼职辅导教师招聘公告",
+						time:"2017-12-22"
+					},
+					{
+						title:"滨江分中心工作人员招聘公告 ",
+						time:"2017-10-29"
+					},
+					{
+						title:"电教与网络设备维护管理员",
+						time:"2018-01-13"
+					},
+					{
+						title:"体育部招聘形体芭蕾兼职教师",
+						time:"2015-02-03"
+					},
+					{
+						title:"招聘青少年体育运动类兼职校外辅导员",
+						time:"2014-10-23"
+					},
+					{
+						title:"招聘艺术体操、健美操兼职教师",
+						time:"2014-03-02"
+					},
+					{
+						title:"少儿拉丁舞兼职教师岗位招聘信息",
+						time:"2012-02-12"
+					}
+				]
+			}
+		},
+		components:{lMenu},
+	}
+</script>

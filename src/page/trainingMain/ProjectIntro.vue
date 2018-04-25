@@ -1,0 +1,72 @@
+<template>
+	<l-menu :titleOne="titleOne" :titleTwo="titleTwo" :path="path" :list="list"></l-menu>
+</template>
+<script>
+	import lMenu from '../../components/ListMenu.vue'
+	export default{
+		data(){
+			return{
+					"titleOne":"兴趣培训",
+					"titleTwo":"项目介绍",
+					"path":"/training/projectIntro/introMain",
+					list:[
+					{
+						title:"早期教育英语唱游亲子项目简介",
+						time:" 	2015-05-31"
+					},
+					{
+						title:"早期教育手脑智能项目亲子简介",
+						time:"2015-05-31"
+					},
+					{
+						title:"早期教育亲亲绘本亲子项目简介",
+						time:"2015-05-31"
+					},
+					{
+						title:"早期教育奇趣色彩亲子项目简介",
+						time:"2015-05-31"
+					},
+					{
+						title:"早期教育乐动智能亲子项目简介",
+						time:"2015-05-31"
+					},
+					{
+						title:"早期教育开心豆豆亲子项目简介",
+						time:"2015-05-31"
+					},
+					{
+						title:"早期教育唱唱跳跳亲子项目简介",
+						time:"2015-05-31"
+					},
+					{
+						title:"科技部项目介绍（八）儿童学习能力训练",
+						time:"2015-05-20"
+					},
+					{
+						title:"科技部项目介绍（七）运动训练营",
+						time:"2015-05-20"
+					},
+					{
+						title:"科技部项目介绍（七）运动训练营",
+						time:"2015-05-20"
+					},
+					{
+						title:"科技部项目介绍（六）注意力训练营",
+						time:"2015-05-20"
+					},
+					{
+						title:"科技部项目介绍（五）333多维训练营",
+						time:"2015-05-20"
+					},
+					{
+						title:"科技部项目介绍（四）科学实验",
+						time:"2015-05-20"
+					}
+				]
+			}
+		},
+		components:{lMenu},
+	}
+</script>
+
+</style>
